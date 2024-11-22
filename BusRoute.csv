@@ -1,0 +1,11 @@
+row_wid,Route_num,start_stop,destination_stop
+1,1,South Melanie,Lake Maureen
+2,6,Lake Maureen,South Melanie
+3,2,Port Russell,West Terryside
+4,7,West Terryside,Port Russell
+5,3,East Martin,Marcusfurt
+6,8,Marcusfurt,East Martin
+7,4,East Nathanhaven,Port Ryanside
+8,9,Port Ryanside,East Nathanhaven
+9,5,Port Victoria,Daveymouth
+10,10,Daveymouth,Port Victoria
